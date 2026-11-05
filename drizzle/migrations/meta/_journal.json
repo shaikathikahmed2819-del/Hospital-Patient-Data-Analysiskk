@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1793165283484,
+      "tag": "0000_hospital_tables",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1793165994967,
+      "tag": "0001_public_read_dashboard",
+      "breakpoints": true
+    }
+  ]
+}
